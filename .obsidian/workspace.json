@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "windows  配置 git hub 多账户.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "windows  配置 git hub 多账户.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "windows  配置 git hub 多账户.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "windows  配置 git hub 多账户.md"
               }
             }
           }
@@ -141,7 +141,7 @@
   },
   "active": "241cf57f2a496534",
   "lastOpenFiles": [
-    "dada.md",
-    "README.md"
+    "README.md",
+    "windows  配置 git hub 多账户.md"
   ]
 }
