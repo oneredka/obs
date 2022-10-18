@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "9a5093845911e2e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d9c66d7ecbf1e37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "241cf57f2a496534",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dada.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "000ab55ed92a18ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "576ccbaef732b6b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72e1f86626e935a0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2d47a3136f5c2d2d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2931e6679a03bb79",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "863a72dcb5f0c6cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b2d98f750ba87a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3714d196eeb543a2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "dada.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1e0a54b7145d8712",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "dada.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b5a35f1743db76f1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "de6c62b0984eada3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "dada.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "241cf57f2a496534",
+  "lastOpenFiles": []
+}
