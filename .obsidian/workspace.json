@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "468246e25b485cc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "windows  配置 git hub 多账户.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
+                "file": "windows  配置 git hub 多账户.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "windows  配置 git hub 多账户.md"
               }
             }
           }
@@ -152,8 +139,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "468246e25b485cc4",
+  "active": "241cf57f2a496534",
   "lastOpenFiles": [
+    "未命名.md",
     "windows  配置 git hub 多账户.md",
     "README.md"
   ]
