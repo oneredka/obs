@@ -12,3 +12,4 @@ With Other team
 2. https://qima.atlassian.net/browse/SP-10355 
 	add `Application Information provided by` and `booking date` in step3
 	1. after add fields in wqs and can save the fields, change `Application Information provided by`  to be editable
+WQS/SP-10366/Rollback_Script.sql
