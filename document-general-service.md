@@ -1,3 +1,4 @@
+### Aspose 
 https://www.aspose.com/
 demo
 https://github.com/aspose-cells/Aspose.Cells-for-.NET
@@ -13,5 +14,14 @@ https://www.e-iceblue.cn/licensing/install-spirepdf-for-java-from-maven-reposito
 集成方法
 demo 
 
-
-cust:cust_features
+1.  EasyExcel + Jacob
+    1.  High performance cost
+    2.  High complexity
+2.  Spire
+    1.  Easy/Safety/Efficient
+    2.  Well documented and friendly community&official support
+    3.  The free version license is able to render/convert the excel files that page number is not more than 3, able to cover our current scenario
+    4.  No extra development effort for upgrading license
+3.  Aspose
+    1.  The free version has water mark and often lose style during converting file format
+    2.  The advanced version is the most expensive one among the solutions
