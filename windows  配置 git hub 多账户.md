@@ -109,7 +109,7 @@ IdentityFile ~/.ssh/id_oneredka
 
   
 
-**Host**  这个是账号别名，当 `HostName` 相同时，就需要通过它来识别账号。举个栗子，现在我个人  `github` 账号的仓库 `ssh` 克隆地址为 ： `git@ggit@github.com:oneredka/testDemo.gitithub.com:oneredka/obs.git ` ，那么我在 `clone` 代码时，无多账号时，应运行的命令是 `git clone [git@github.com](mailto:git@github.com):oneredka/obs.git` , 多账号时，就要替换为 `git clone git@personal:oneeredka/obs.git` 。所以你可以发现到底替换了什么。
+**Host**  这个是账号别名，当 `HostName` 相同时，就需要通过它来识别账号。举个栗子，现在我个人  `github` 账号的仓库 `ssh` 克隆地址为 ： git@github.com:oneredka/obs.git ，那么我在 `clone` 代码时，无多账号时，应运行的命令是 `git clone git@github.com:oneredka/obs.git` , 多账号时，就要替换为 `git clone git@personal:oneeredka/obs.git`  。所以你可以发现到底替换了什么。
 
 对于公司账号，因为用的比较频繁，所以 `Host` 被我 设置得跟 `HostName` 一样，这样克隆公司代码的时候就不用更改 `ssh` 的地址了。
 
