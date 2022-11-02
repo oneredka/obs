@@ -23,11 +23,6 @@
 
 ### tech investigation
 
-1.  EasyExcel + Jacob
-    
-    1.  High-performance cost
-        
-    2.  High complexity
         
 2.  Spire (recommend)
     
