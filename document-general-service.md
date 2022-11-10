@@ -25,3 +25,7 @@ demo
 3.  Aspose
     1.  The free version has water mark and often lose style during converting file format
     2.  The advanced version is the most expensive one among the solutions
+
+
+dco template  保存到 fs_mate 
+- fs_mate 中的 src_id 不能少于 32 位，但是 doc-service 用的是 自增id
