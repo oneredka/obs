@@ -1,14 +1,5 @@
 
 
-
-
-邮件模板|订单类型范围|什么时候发送|是否发给Master|是否发给下单Client|是否发给subAccount 
---|:--|:--:|:--:|:--:|:--: 
-acceptAskMoreMdToAi_p011||after ask for more monday, info ai||
-AcceptAskMoreMdToClient_P0111|未在生产环境发现发送记录|||
-AskForMoreMd_P0102||ask for more monday|||yes  
-P0111||received the approve for ask for more monday|| 
-
 set To 
 if sub and isMasterAccountWantReceiveEmail
 	add master's all email 
