@@ -16,3 +16,4 @@ With Binesh team
 	1. after add fields in wqs and can save the fields, change `Application Information provided by`  to be editable
 
 
+SP-10131
