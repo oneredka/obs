@@ -18,4 +18,7 @@ With Binesh team
 
 
 
+Hi this Louis from apollo team, I will show you the feature about hide inspection cost from sulipers.
+For this feature, when we setting hide inpection cost from suppliers yes, the information about cost in sub-account  will be hide in the aca and email.
 
+Internet speed is a bit slow.
