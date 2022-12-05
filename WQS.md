@@ -26,4 +26,4 @@ For this feature, when we setting hide inpection cost from suppliers yes, the in
 
 1. shipper 
 	1. add new 
-2. remove debugger
+2. fix country lable for phone 
