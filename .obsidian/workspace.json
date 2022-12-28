@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tool/笔记系列/obsidian/插件/Editor Syntax Highlight 代码高亮.md",
+                "file": "DB/PostgreSql.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tool/笔记系列/obsidian/插件/Editor Syntax Highlight 代码高亮.md",
+                "file": "DB/PostgreSql.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tool/笔记系列/obsidian/插件/Editor Syntax Highlight 代码高亮.md",
+                "file": "DB/PostgreSql.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tool/笔记系列/obsidian/插件/Editor Syntax Highlight 代码高亮.md"
+                "file": "DB/PostgreSql.md"
               }
             }
           }
@@ -238,6 +238,7 @@
   },
   "active": "cfb7df842a8e9a49",
   "lastOpenFiles": [
+    "tool/笔记系列/obsidian/插件/Editor Syntax Highlight 代码高亮.md",
     "tool/笔记系列/obsidian/插件/Dynamic Table of Contents 通过分级标题构建目录.md",
     "tool/笔记系列/obsidian/插件/Obsidian Git 笔记自动备份git.md",
     "DB/PostgreSql.md",
@@ -246,7 +247,6 @@
     "WQS.md",
     "order相关邮件收件人基本逻辑.md",
     "document-general-service design.md",
-    "iText.md",
-    "README.md"
+    "iText.md"
   ]
 }
