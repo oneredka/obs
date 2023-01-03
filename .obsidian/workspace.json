@@ -92,6 +92,30 @@
             }
           },
           {
+            "id": "38a43f65cae87a17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "order相关邮件收件人基本逻辑.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dfa4f100dfa50738",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "qima/2023 objective.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "981b5756568c2f97",
             "type": "leaf",
             "state": {
@@ -104,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -182,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DB/PostgreSql.md",
+                "file": "qima/2023 objective.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DB/PostgreSql.md",
+                "file": "qima/2023 objective.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DB/PostgreSql.md"
+                "file": "qima/2023 objective.md"
               }
             }
           }
@@ -236,17 +260,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "cfb7df842a8e9a49",
+  "active": "dfa4f100dfa50738",
   "lastOpenFiles": [
+    "order相关邮件收件人基本逻辑.md",
+    "未命名.md",
+    "DB/PostgreSql.md",
     "tool/笔记系列/obsidian/插件/Editor Syntax Highlight 代码高亮.md",
     "tool/笔记系列/obsidian/插件/Dynamic Table of Contents 通过分级标题构建目录.md",
     "tool/笔记系列/obsidian/插件/Obsidian Git 笔记自动备份git.md",
-    "DB/PostgreSql.md",
     "tool/笔记系列/obsidian/文档.md",
     "2022-12-26.md",
     "WQS.md",
-    "order相关邮件收件人基本逻辑.md",
-    "document-general-service design.md",
-    "iText.md"
+    "document-general-service design.md"
   ]
 }
