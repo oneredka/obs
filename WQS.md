@@ -1,10 +1,8 @@
  ``npm run webpack:dev`` 
 
-new method in public-api to  get product list by companyId
+#### open booking wqs setting
+https://stagingsso.qima.com/back-office/company-feature/all-features/CA33A384418C46C5A478C9DF562B26A2/it
 
-url in public-api :   `parameter/v2/wqs/company-products` 
-parameter:  String: companyId
-return data are the same as `parameter/v2/wqs/all-sys-products`  
 
 With Binesh team
 
@@ -18,12 +16,3 @@ With Binesh team
 
 
 
-Hi this Louis from apollo team, I will show you the feature about hide inspection cost from sulipers.
-For this feature, when we setting hide inpection cost from suppliers yes, the information about cost in sub-account  will be hide in the aca and email.  So it can help key client to improve their business confidentiality, maintain their financial interests and reduce the workload of sales and finances in issuing walkarounds for clients.
-
-
-
-
-1. shipper 
-	1. add new 
-2. fix country lable for phone 
