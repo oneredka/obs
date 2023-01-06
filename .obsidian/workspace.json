@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 444.5
+    "width": 255.5,
+    "collapsed": true
   },
   "right": {
     "id": "863a72dcb5f0c6cb",
@@ -176,7 +177,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "981139c51bd95b49",
+  "active": "72e1f86626e935a0",
   "lastOpenFiles": [
     "qima/service/mail-service.md",
     "qima/account.md",
