@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "1a56cb9daf664332",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal-life/bill.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "981139c51bd95b49",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022年终总结.md",
+                "file": "personal-life/bill.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022年终总结.md",
+                "file": "personal-life/bill.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022年终总结.md"
+                "file": "personal-life/bill.md"
               }
             }
           }
@@ -176,11 +188,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "8a8df8e3bc977794",
+  "active": "1a56cb9daf664332",
   "lastOpenFiles": [
+    "2022年终总结.md",
     "tool/笔记系列/obsidian/插件/Dynamic Table of Contents 通过分级标题构建目录.md",
     "读书/书单.md",
-    "2022年终总结.md",
     "微信小程序.md",
     "qima/business/WQS.md",
     "README.md",
