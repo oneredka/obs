@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CAP-DR.md",
+                "file": "qima/account.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CAP-DR.md",
+                "file": "qima/account.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CAP-DR.md",
+                "file": "qima/account.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CAP-DR.md"
+                "file": "qima/account.md"
               }
             }
           }
@@ -166,6 +166,7 @@
   },
   "active": "cbca9421eb4a2b05",
   "lastOpenFiles": [
+    "CAP-DR.md",
     "2022年终总结.md",
     "微信小程序.md",
     "README.md",
@@ -174,7 +175,6 @@
     "local-file/8a5a10994e224cbcf2cf9c7758441db.jpg",
     "8a5a10994e224cbcf2cf9c7758441db.jpg.md",
     "读书/书单.md",
-    "tool/笔记系列/obsidian/插件/Dynamic Table of Contents 通过分级标题构建目录.md",
-    "qima/business/WQS.md"
+    "tool/笔记系列/obsidian/插件/Dynamic Table of Contents 通过分级标题构建目录.md"
   ]
 }
